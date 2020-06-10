@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cherry's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cherrybq-feng/cherrybq-feng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
